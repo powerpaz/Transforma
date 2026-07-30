@@ -1,0 +1,110 @@
+grupo,categoria,medida,valor
+panorama,total,uep_estudiantes_total,865582
+panorama,total,uep_instituciones_total,62
+uep_estudiantes_provincia,AZUAY,valor,50348
+uep_estudiantes_provincia,BOLIVAR,valor,9188
+uep_estudiantes_provincia,CARCHI,valor,4967
+uep_estudiantes_provincia,CAÑAR,valor,10763
+uep_estudiantes_provincia,CHIMBORAZO,valor,27632
+uep_estudiantes_provincia,COTOPAXI,valor,17559
+uep_estudiantes_provincia,EL ORO,valor,17028
+uep_estudiantes_provincia,ESMERALDAS,valor,9074
+uep_estudiantes_provincia,GALAPAGOS,valor,31
+uep_estudiantes_provincia,GUAYAS,valor,248524
+uep_estudiantes_provincia,IMBABURA,valor,21863
+uep_estudiantes_provincia,LOJA,valor,70104
+uep_estudiantes_provincia,LOS RIOS,valor,29017
+uep_estudiantes_provincia,MANABI,valor,101076
+uep_estudiantes_provincia,MORONA SANTIAGO,valor,1719
+uep_estudiantes_provincia,NAPO,valor,1941
+uep_estudiantes_provincia,ORELLANA,valor,939
+uep_estudiantes_provincia,PASTAZA,valor,6906
+uep_estudiantes_provincia,PICHINCHA,valor,176700
+uep_estudiantes_provincia,SANTA ELENA,valor,16460
+uep_estudiantes_provincia,SANTO DOMINGO DE LOS TSACHILAS,valor,6737
+uep_estudiantes_provincia,SUCUMBIOS,valor,1408
+uep_estudiantes_provincia,TUNGURAHUA,valor,35115
+uep_estudiantes_provincia,ZAMORA CHINCHIPE,valor,483
+uep_estudiantes_financiamiento,PARTICULAR AUTOFINANCIADA,valor,140770
+uep_estudiantes_financiamiento,PARTICULAR COFINANCIADA,valor,168457
+uep_estudiantes_financiamiento,PUBLICA,valor,556355
+uep_estudiantes_tiposede,EXTENS,valor,89991
+uep_estudiantes_tiposede,MATRIZ,valor,775560
+uep_estudiantes_tiposede,SEDE,valor,31
+uep_instituciones_provincia,AZUAY,valor,4
+uep_instituciones_provincia,BOLIVAR,valor,1
+uep_instituciones_provincia,CARCHI,valor,2
+uep_instituciones_provincia,CAÑAR,valor,2
+uep_instituciones_provincia,CHIMBORAZO,valor,3
+uep_instituciones_provincia,COTOPAXI,valor,2
+uep_instituciones_provincia,EL ORO,valor,2
+uep_instituciones_provincia,ESMERALDAS,valor,3
+uep_instituciones_provincia,GALAPAGOS,valor,1
+uep_instituciones_provincia,GUAYAS,valor,18
+uep_instituciones_provincia,IMBABURA,valor,5
+uep_instituciones_provincia,LOJA,valor,3
+uep_instituciones_provincia,LOS RIOS,valor,3
+uep_instituciones_provincia,MANABI,valor,6
+uep_instituciones_provincia,MORONA SANTIAGO,valor,2
+uep_instituciones_provincia,NAPO,valor,1
+uep_instituciones_provincia,ORELLANA,valor,1
+uep_instituciones_provincia,PASTAZA,valor,2
+uep_instituciones_provincia,PICHINCHA,valor,20
+uep_instituciones_provincia,SANTA ELENA,valor,3
+uep_instituciones_provincia,SANTO DOMINGO DE LOS TSACHILAS,valor,6
+uep_instituciones_provincia,SUCUMBIOS,valor,2
+uep_instituciones_provincia,TUNGURAHUA,valor,4
+uep_instituciones_provincia,ZAMORA CHINCHIPE,valor,1
+panorama,total,itt_estudiantes_total,138613
+panorama,total,itt_instituciones_total,173
+itt_serie_anio,2024,estudiantes,138613
+itt_estudiantes_provincia,AZUAY,valor,4512
+itt_estudiantes_provincia,BOLIVAR,valor,477
+itt_estudiantes_provincia,CARCHI,valor,499
+itt_estudiantes_provincia,CAÑAR,valor,797
+itt_estudiantes_provincia,CHIMBORAZO,valor,6628
+itt_estudiantes_provincia,COTOPAXI,valor,1977
+itt_estudiantes_provincia,EL ORO,valor,1778
+itt_estudiantes_provincia,ESMERALDAS,valor,1194
+itt_estudiantes_provincia,GALAPAGOS,valor,253
+itt_estudiantes_provincia,GUAYAS,valor,42159
+itt_estudiantes_provincia,IMBABURA,valor,4576
+itt_estudiantes_provincia,LOJA,valor,3267
+itt_estudiantes_provincia,LOS RIOS,valor,1529
+itt_estudiantes_provincia,MANABI,valor,2341
+itt_estudiantes_provincia,MORONA SANTIAGO,valor,209
+itt_estudiantes_provincia,NAPO,valor,528
+itt_estudiantes_provincia,ORELLANA,valor,1818
+itt_estudiantes_provincia,PASTAZA,valor,1043
+itt_estudiantes_provincia,PICHINCHA,valor,51601
+itt_estudiantes_provincia,SANTA ELENA,valor,241
+itt_estudiantes_provincia,SANTO DOMINGO DE LOS TSACHILAS,valor,4780
+itt_estudiantes_provincia,SUCUMBIOS,valor,813
+itt_estudiantes_provincia,TUNGURAHUA,valor,5486
+itt_estudiantes_provincia,ZAMORA CHINCHIPE,valor,107
+itt_estudiantes_financiamiento,PARTICULAR,valor,98031
+itt_estudiantes_financiamiento,PUBLICO,valor,40582
+itt_instituciones_provincia,AZUAY,valor,10
+itt_instituciones_provincia,BOLIVAR,valor,1
+itt_instituciones_provincia,CARCHI,valor,3
+itt_instituciones_provincia,CAÑAR,valor,3
+itt_instituciones_provincia,CHIMBORAZO,valor,13
+itt_instituciones_provincia,COTOPAXI,valor,3
+itt_instituciones_provincia,EL ORO,valor,7
+itt_instituciones_provincia,ESMERALDAS,valor,4
+itt_instituciones_provincia,GALAPAGOS,valor,2
+itt_instituciones_provincia,GUAYAS,valor,31
+itt_instituciones_provincia,IMBABURA,valor,8
+itt_instituciones_provincia,LOJA,valor,11
+itt_instituciones_provincia,LOS RIOS,valor,2
+itt_instituciones_provincia,MANABI,valor,6
+itt_instituciones_provincia,MORONA SANTIAGO,valor,2
+itt_instituciones_provincia,NAPO,valor,1
+itt_instituciones_provincia,ORELLANA,valor,2
+itt_instituciones_provincia,PASTAZA,valor,3
+itt_instituciones_provincia,PICHINCHA,valor,54
+itt_instituciones_provincia,SANTA ELENA,valor,1
+itt_instituciones_provincia,SANTO DOMINGO DE LOS TSACHILAS,valor,8
+itt_instituciones_provincia,SUCUMBIOS,valor,2
+itt_instituciones_provincia,TUNGURAHUA,valor,9
+itt_instituciones_provincia,ZAMORA CHINCHIPE,valor,1
