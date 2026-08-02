@@ -1,0 +1,325 @@
+grupo,categoria,medida,valor
+panorama,total,naturales_total,26108
+naturales_provincia,PICHINCHA,valor,8367
+naturales_provincia,GUAYAS,valor,3876
+naturales_provincia,AZUAY,valor,1831
+naturales_provincia,MANABÍ,valor,1527
+naturales_provincia,TUNGURAHUA,valor,1215
+naturales_provincia,IMBABURA,valor,1164
+naturales_provincia,CHIMBORAZO,valor,744
+naturales_provincia,LOJA,valor,721
+naturales_provincia,COTOPAXI,valor,689
+naturales_provincia,SANTA ELENA,valor,685
+naturales_provincia,PASTAZA,valor,626
+naturales_provincia,ORELLANA,valor,593
+naturales_provincia,SANTO DOMINGO DE LOS TSÁCHILAS,valor,577
+naturales_provincia,NAPO,valor,562
+naturales_provincia,EL ORO,valor,433
+naturales_provincia,CAÑAR,valor,394
+naturales_provincia,SUCUMBÍOS,valor,373
+naturales_provincia,ESMERALDAS,valor,365
+naturales_provincia,LOS RÍOS,valor,279
+naturales_provincia,SIN DATO,valor,237
+naturales_provincia,CARCHI,valor,215
+naturales_provincia,MORONA SANTIAGO,valor,198
+naturales_provincia,BOLÍVAR,valor,187
+naturales_provincia,ZAMORA CHINCHIPE,valor,154
+naturales_provincia,GALAPAGOS,valor,96
+naturales_sexo,HOMBRE,valor,15006
+naturales_sexo,MUJER,valor,7976
+naturales_sexo,SIN DATO,valor,3126
+naturales_etnia,MESTIZO/A,valor,17423
+naturales_etnia,SIN DATO,valor,4896
+naturales_etnia,INDÍGENA,valor,1554
+naturales_etnia,MONTUBIO/A,valor,761
+naturales_etnia,BLANCO/A,valor,681
+naturales_etnia,AFROECUATORIANO/A O AFRODESCENDIENTE,valor,425
+naturales_etnia,NEGRO/A,valor,368
+naturales_discapacidad,NO,valor,25549
+naturales_discapacidad,SI,valor,559
+naturales_escolaridad,SIN DATO,valor,7811
+naturales_escolaridad,ESTUDIANTE,valor,6254
+naturales_escolaridad,LICENCIADO,valor,1041
+naturales_escolaridad,BACHILL. EN CIENCIAS,valor,859
+naturales_escolaridad,EMPLEADO PRIVADO,valor,846
+naturales_escolaridad,LICENCIADA,valor,709
+naturales_escolaridad,EMPLEADO,valor,480
+naturales_escolaridad,INGENIERO,valor,476
+naturales_escolaridad,BACHILLER,valor,471
+naturales_escolaridad,MAGISTER,valor,408
+naturales_escolaridad,MUSICO,valor,339
+naturales_escolaridad,LAS PERMI.POR.LA.LEY,valor,309
+naturales_escolaridad,TECNOLOGO,valor,304
+naturales_escolaridad,EMPLEADO PARTICULAR,valor,250
+naturales_escolaridad,INGENIERA,valor,209
+naturales_escolaridad,COMERCIANTE,valor,193
+naturales_escolaridad,EMPLEADO PUBLICO,valor,189
+naturales_escolaridad,ARTISTA,valor,183
+naturales_escolaridad,MASTER,valor,179
+naturales_escolaridad,QUEHACER. DOMESTICOS,valor,179
+naturales_escolaridad,ARTISTA PROF CALIFIC,valor,177
+naturales_escolaridad,TECNÓLOGA,valor,113
+naturales_escolaridad,NINGUNA,valor,112
+naturales_escolaridad,ABOGADO,valor,109
+naturales_escolaridad,BACH. CC SOCIALES,valor,107
+naturales_escolaridad,CANTANTE,valor,97
+naturales_escolaridad,ARQUITECTO,valor,77
+naturales_escolaridad,CONTADOR BACHILLER,valor,72
+naturales_escolaridad,CHOFER PROFESIONAL,valor,71
+naturales_escolaridad,LIC.CC.EDUCACION,valor,70
+naturales_escolaridad,BACHILLER COMER-ADM,valor,64
+naturales_escolaridad,ACTOR,valor,63
+naturales_escolaridad,BACHILLER C.FIS.MATE,valor,61
+naturales_escolaridad,AGRICULTOR,valor,60
+naturales_escolaridad,ARTESANO,valor,60
+naturales_escolaridad,BACH.TECNICO.INDUSTR,valor,59
+naturales_escolaridad,BACHILLER C.QUIM.BIO,valor,58
+naturales_escolaridad,BACH.TEC.COMER-ADMI.,valor,55
+naturales_escolaridad,ARTISTA PLASTICO,valor,51
+naturales_escolaridad,EMPRESARIO,valor,51
+naturales_escolaridad,PERIODISTA,valor,50
+naturales_escolaridad,FOTOGRAFO,valor,48
+naturales_escolaridad,PRODUCTOR,valor,47
+naturales_escolaridad,ABOGADA,valor,47
+naturales_escolaridad,PROFESOR,valor,46
+naturales_escolaridad,BACHILLER INFORMATIC,valor,45
+naturales_escolaridad,JORNALERO,valor,45
+naturales_escolaridad,BACHILLER TECNICO,valor,45
+naturales_escolaridad,ECONOMISTA,valor,44
+naturales_escolaridad,DISEÑADOR,valor,43
+naturales_escolaridad,TÉCNICO SUPERIOR,valor,38
+naturales_escolaridad,PSICÓLOGO,valor,35
+naturales_escolaridad,BACH.CIENCIAS GENERALES,valor,35
+naturales_escolaridad,DISEÑADOR GRAFICO,valor,34
+naturales_escolaridad,TECNICO,valor,34
+naturales_escolaridad,PROFESOR EN GENERAL,valor,33
+naturales_escolaridad,COMUNICADOR SOCIAL,valor,32
+naturales_escolaridad,INGENIERO COMERCIAL,valor,31
+naturales_escolaridad,PRODUCTOR T.V.,valor,30
+naturales_escolaridad,DISENADOR,valor,30
+naturales_escolaridad,LIC. CC.COM.SOCIAL,valor,29
+naturales_escolaridad,LIC. COMUNIC. SOCIAL,valor,29
+naturales_escolaridad,BACHILLER EN ARTES,valor,29
+naturales_escolaridad,LIC. MUSICA,valor,26
+naturales_escolaridad,ARQUITECTA,valor,26
+naturales_escolaridad,PSICOLOGO CLINICO,valor,25
+naturales_escolaridad,PINTOR,valor,25
+naturales_escolaridad,PSICÓLOGA,valor,25
+naturales_escolaridad,MEDICO,valor,24
+naturales_escolaridad,BACH.TEC.CONTAB.ADMI,valor,24
+naturales_escolaridad,ACTRIZ,valor,24
+naturales_escolaridad,BACH.T.POLIV.CON.ADM,valor,24
+naturales_escolaridad,ESCRITOR,valor,23
+naturales_escolaridad,DIPLOMADO SUPERIOR,valor,23
+naturales_escolaridad,PROFESOR EN MUSICA,valor,23
+naturales_escolaridad,CINEASTA,valor,22
+naturales_escolaridad,ACTIV.LUCR.PERM.LEY,valor,22
+naturales_escolaridad,BACHILLER SERVICIOS,valor,22
+naturales_escolaridad,OBRERO,valor,21
+naturales_escolaridad,BAILARIN,valor,20
+naturales_escolaridad,BACH.TÉC.SER.APL.I,valor,20
+naturales_escolaridad,BACH.TEC.SERV.CONTAB,valor,20
+naturales_escolaridad,JUBILADO,valor,19
+naturales_escolaridad,PROFESOR EDUC.PRIMAR,valor,19
+naturales_escolaridad,BACHILLER AGROPECUAR,valor,19
+naturales_escolaridad,LICENCIADO EN ARTES,valor,18
+naturales_escolaridad,SOCIOLOGO,valor,18
+naturales_escolaridad,BACH TEC/INDUS/ELECT,valor,18
+naturales_escolaridad,BACH.TEC. AGROPECUAR,valor,18
+naturales_escolaridad,NEGOCIO PROPIO,valor,17
+naturales_escolaridad,DOCTOR - LEYES,valor,17
+naturales_escolaridad,LOCUTOR,valor,16
+naturales_escolaridad,BACHILLER TURISMO,valor,16
+naturales_escolaridad,DOCTORADO,valor,15
+naturales_escolaridad,LCDO. COMUNICACION,valor,15
+naturales_escolaridad,PUBLICISTA,valor,15
+naturales_escolaridad,DOCTOR - CIENCIAS,valor,14
+naturales_escolaridad,NEGOCIANTE,valor,14
+naturales_escolaridad,MILITAR SERV. PASIVO,valor,14
+naturales_escolaridad,AUXILIAR. ENFERMERIA,valor,13
+naturales_escolaridad,EBANISTA,valor,13
+naturales_escolaridad,PROMOTOR CULTURAL,valor,12
+naturales_escolaridad,CONTADOR,valor,12
+naturales_escolaridad,MECANICO,valor,11
+naturales_escolaridad,CARPINTERO,valor,11
+naturales_escolaridad,COSTURERA/O,valor,10
+naturales_escolaridad,LIC. ARTES VISUALES,valor,10
+naturales_escolaridad,ODONTÓLOGO,valor,10
+naturales_escolaridad,MECANICO AUTOMOTRIZ,valor,10
+naturales_escolaridad,ANTROPÓLOGO,valor,9
+naturales_escolaridad,ING. CIVIL,valor,9
+naturales_escolaridad,PROFESORA,valor,9
+naturales_escolaridad,BACH.TEC.INF.ADM.SIS,valor,9
+naturales_escolaridad,MAESTRA EN BELLEZA,valor,9
+naturales_escolaridad,ALBANIL,valor,9
+naturales_escolaridad,MAESTRIA,valor,8
+naturales_escolaridad,LIC/DISEÑO/PROD/AUDI,valor,8
+naturales_escolaridad,INSTRUCTOR,valor,8
+naturales_escolaridad,TECNÓL.ACTUAC.TV.,valor,8
+naturales_escolaridad,BACH.TEC.IND.ELECTRO,valor,8
+naturales_escolaridad,BACH.TEC.IND.ME.CO.M,valor,8
+naturales_escolaridad,ELECTRICISTA,valor,8
+naturales_escolaridad,TEJEDOR,valor,8
+naturales_escolaridad,BACH.TEC.MECAN.AUTOM,valor,8
+naturales_escolaridad,BACHILLER ELECTROMEC,valor,8
+naturales_escolaridad,ARQUEÓLOGO,valor,7
+naturales_escolaridad,PROFES.2DA.ENSENANZA,valor,7
+naturales_escolaridad,ARTISTA PINTOR,valor,7
+naturales_escolaridad,PROFESOR EN ARTE,valor,7
+naturales_escolaridad,MAESTRA CORTE/CONFEC,valor,7
+naturales_escolaridad,ESCULTOR,valor,7
+naturales_escolaridad,MILITAR,valor,7
+naturales_escolaridad,SASTRE,valor,7
+naturales_escolaridad,GUIA TURISTICO,valor,7
+naturales_escolaridad,ING.SISTEM.INFORMATI,valor,7
+naturales_escolaridad,HISTORIADOR,valor,7
+naturales_escolaridad,DR. JURISPRUDENCIA,valor,6
+naturales_escolaridad,BACHILLER SECRETARIA,valor,6
+naturales_escolaridad,DIRECTOR DE CINE,valor,6
+naturales_escolaridad,EGRESADO/A,valor,6
+naturales_escolaridad,BACH.T.SER.ORG.GES.S,valor,6
+naturales_escolaridad,BIOLOGO,valor,6
+naturales_escolaridad,ANTROPÓLOGA,valor,6
+naturales_escolaridad,ING. DE SISTEMAS,valor,6
+naturales_escolaridad,PAYASO,valor,6
+naturales_escolaridad,ANALISTA,valor,6
+naturales_escolaridad,MAESTRO/A/ EN ARTES,valor,6
+naturales_escolaridad,BACH.EN INDUSTRIAS,valor,6
+naturales_escolaridad,FUNCIONARIO PUBLICO,valor,6
+naturales_escolaridad,BACH.TEC.SER.ADMÓN.S,valor,6
+naturales_escolaridad,TEC.DISENO GRAFICO,valor,6
+naturales_escolaridad,LIC. CINE Y VIDEO,valor,6
+naturales_escolaridad,EN REVISION,valor,6
+naturales_escolaridad,LIC. EN PUBLICIDAD,valor,6
+naturales_escolaridad,BACH/TEC/POLIVALENTE,valor,6
+naturales_escolaridad,DISCAPACITADO,valor,6
+naturales_escolaridad,POLICIA SERV. PASIVO,valor,5
+naturales_escolaridad,DOCTORA - CIENCIAS,valor,5
+naturales_escolaridad,ESPECIALISTA,valor,5
+naturales_escolaridad,TEC.SUP.EN DISENO,valor,5
+naturales_escolaridad,LIC. COMUNI/LITERATU,valor,5
+naturales_escolaridad,INSTRUCTOR DE ARTE,valor,5
+naturales_escolaridad,CHEFF,valor,5
+naturales_escolaridad,GESTOR.CULTURAL,valor,5
+naturales_escolaridad,PHD,valor,5
+naturales_escolaridad,MODISTA,valor,5
+naturales_escolaridad,TEC.AGROPECUARIO,valor,5
+naturales_escolaridad,DIBUJANTE,valor,5
+naturales_escolaridad,DIRECTOR,valor,5
+naturales_escolaridad,COSMETOLOGO,valor,5
+naturales_escolaridad,BACHILLER ART/PLAST.,valor,5
+naturales_escolaridad,PINTOR ESCULTOR,valor,5
+naturales_escolaridad,ENFERMERA/O,valor,5
+naturales_escolaridad,Otros / protegido,valor,704
+ambitos_sector,SIN DATO,naturales,19228
+ambitos_sector,ARTES E INNOVACIÓN,naturales,6054
+ambitos_sector,PATRIMONIO CULTURAL,naturales,554
+ambitos_sector,MEMORIA SOCIAL,naturales,272
+ambitos_ambito,SIN DATO,naturales,19229
+ambitos_ambito,ARTES E INNOVACIÓN EN CULTURA,naturales,5077
+ambitos_ambito,"EDUCACIÓN Y FORMACIÓN EN ARTES, CULTURA E INNOVACIÓN",naturales,976
+ambitos_ambito,PATRIMONIO MATERIAL,naturales,235
+ambitos_ambito,PATRIMONIO INMATERIAL,naturales,223
+ambitos_ambito,CONSTRUCCIÓN DE MEMORIA COLECTIVA,naturales,154
+ambitos_ambito,REPOSITORIOS DE MEMORIA SOCIAL,naturales,118
+ambitos_ambito,EDUCACIÓN Y FORMACIÓN REFERENTE AL PATRIMONIO,naturales,96
+naturales_estado,ACTIVO,valor,26053
+naturales_estado,INACTIVO,valor,55
+naturales_serie_anio,2017,registros,6688
+naturales_serie_anio,2018,registros,1046
+naturales_serie_anio,2019,registros,1357
+naturales_serie_anio,2020,registros,6560
+naturales_serie_anio,2021,registros,4791
+naturales_serie_anio,2022,registros,807
+naturales_serie_anio,2023,registros,1087
+naturales_serie_anio,2024,registros,1477
+naturales_serie_anio,2025,registros,2192
+naturales_serie_anio,2026,registros,103
+panorama,total,juridico_total,647
+juridico_provincia,PICHINCHA,valor,357
+juridico_provincia,GUAYAS,valor,138
+juridico_provincia,AZUAY,valor,37
+juridico_provincia,MANABÍ,valor,28
+juridico_provincia,IMBABURA,valor,24
+juridico_provincia,LOJA,valor,11
+juridico_provincia,CHIMBORAZO,valor,8
+juridico_provincia,EL ORO,valor,7
+juridico_provincia,GALAPAGOS,valor,6
+juridico_provincia,TUNGURAHUA,valor,6
+juridico_provincia,Otros / protegido,valor,25
+juridico_tipo_actor,PERSONA JURÍDICA,valor,647
+juridico_subtipo_actor,EMPRESA CULTURAL,valor,453
+juridico_subtipo_actor,ORGANIZACIONES SOCIALES,valor,192
+juridico_subtipo_actor,Otros / protegido,valor,2
+ambitos_actividad_economica,"ACTIVIDADES DE PRODUCCIÓN DE PELÍCULAS CINEMATOGRÁFICAS, VIDEOS, PRODUCCIÓN PROGRAMAS Y ANUNCIOS DE TELEVISIÓN.",juridico,48
+ambitos_actividad_economica,"J591100 ACTIVIDADES DE PRODUCCIÓN DE PELÍCULAS CINEMATOGRÁFICAS, VIDEOS, PRODUCCIÓN PROGRAMAS Y ANUNCIOS DE TELEVISIÓN.",juridico,43
+ambitos_actividad_economica,"ACTIVIDADES DE ASOCIACIONES QUE PROMUEVEN ACTIVIDADES CULTURALES O RECREATIVAS O REÚNEN A PERSONAS QUE COMPARTEN UNA AFICIÓN(DIFERENTE DE UN DEPORTE O JUEGO), CLUBES MUSICALES Y ARTÍSTICOS.",juridico,31
+ambitos_actividad_economica,"R900001 PRODUCCIÓN DE OBRAS DE TEATRO, CONCIERTOS, ÓPERAS, ESPECTÁCULOS DE DANZA Y OTRAS ACTIVIDADES ESCÉNICAS COMO LAS ACTIVIDADES DE GRUPOS, CIRCOS O COMPAÑÍAS, ORQUESTAS O BANDAS, INCLUIDO ACTIVIDADES COMPLEMENTARIAS PARA LA PRODUCCIÓN Y OTRAS ACTIVIDADES ESCÉNICAS REALIZADAS EN DIRECTO COMO: ACT",juridico,28
+ambitos_actividad_economica,"PRODUCCIÓN DE OBRAS DE TEATRO, CONCIERTOS, ÓPERAS Y ESPECTÁCULOS DE DANZA.",juridico,27
+ambitos_actividad_economica,"J59110001 ACTIVIDADES DE PRODUCCIÓN DE PELÍCULAS CINEMATOGRÁFICAS, VIDEOS, PRODUCCIÓN PROGRAMAS Y ANUNCIOS DE TELEVISIÓN.",juridico,19
+ambitos_actividad_economica,"S94990506 ACTIVIDADES DE ASOCIACIONES QUE PROMUEVEN ACTIVIDADES CULTURALES O RECREATIVAS O REÚNEN A PERSONAS QUE COMPARTEN UNA AFICIÓN(DIFERENTE DE UN DEPORTE O JUEGO), CLUBES MUSICALES Y ARTÍSTICOS.",juridico,19
+ambitos_actividad_economica,"ACTIVIDADES DE PRODUCTORES O EMPRESARIOS DE ESPECTÁCULOS ARTÍSTICOS EN VIVO, APORTEN O NO ELLOS MISMOS LAS INSTALACIONES CORRESPONDIENTES.",juridico,16
+ambitos_actividad_economica,"PRODUCCIÓN DE OBRAS DE TEATRO, CONCIERTOS, ÓPERAS, ESPECTÁCULOS DE DANZA Y OTRAS ACTIVIDADES ESCÉNICAS COMO LAS ACTIVIDADES DE GRUPOS, CIRCOS O COMPAÑÍAS, ORQUESTAS O BANDAS, INCLUIDO ACTIVIDADES COMPLEMENTARIAS PARA LA PRODUCCIÓN Y OTRAS ACTIVIDADES ESCÉNICAS REALIZADAS EN DIRECTO COMO: ACTIVIDADES",juridico,13
+ambitos_actividad_economica,"ADMINISTRACIÓN PÚBLICA DE PROGRAMAS DESTINADOS A PROMOVER EL BIENESTAR PERSONAL EN ESPARCIMIENTO; ADMINISTRACIÓN DE POLÍTICAS DE INVESTIGACIÓN Y DESARROLLO ADOPTADAS EN ESTE ÁMBITO Y DE LOS FONDOS CORRESPONDIENTES, PATROCINIO DE ACTIVIDADES RECREATIVAS Y CULTURALES.",juridico,12
+ambitos_actividad_economica,"R900004 ACTIVIDADES DE PRODUCTORES O EMPRESARIOS DE ESPECTÁCULOS ARTÍSTICOS EN VIVO, APORTEN O NO ELLOS MISMOS LAS INSTALACIONES CORRESPONDIENTES.",juridico,10
+ambitos_actividad_economica,"ACTIVIDADES DE ASOCIACIONES QUE PROMUEVEN ACTIVIDADES CULTURALES O RECREATIVAS O REÚNEN A PERSONAS QUE COMPARTEN UNA AFICIÓN (DIFERENTE DE UN DEPORTE O JUEGO), COMO CLUBES DE POESÍA, LITERARIOS O DE LIBROS, CLUBES DE HISTORIA.",juridico,10
+ambitos_actividad_economica,"R90000101 PRODUCCIÓN DE OBRAS DE TEATRO, CONCIERTOS, ÓPERAS Y ESPECTÁCULOS DE DANZA.",juridico,8
+ambitos_actividad_economica,"PRESTACIÓN DE ASESORAMIENTO Y AYUDA A LAS EMPRESAS Y LAS ADMINISTRACIONES PÚBLICAS EN MATERIA DE PLANIFICACIÓN, ORGANIZACIÓN, EFICIENCIA Y CONTROL, INFORMACIÓN ADMINISTRATIVA, ETCÉTERA.",juridico,7
+ambitos_actividad_economica,ACTIVIDADES DE ASOCIACIONES QUE PROMUEVEN ACTIVIDADES CULTURALES O RECREATIVAS O REÚNEN A PERSONAS QUE COMPARTEN UNA AFICIÓN (DIFERENTE DE UN DEPORTE O JUEGO) CLUBES DE CINE Y FOTOGRAFÍA.,juridico,7
+ambitos_actividad_economica,SIN DATO,juridico,6
+ambitos_actividad_economica,"ACTIVIDADES DE MUSEOS DE ARTE, ORFEBRERÍA, MUEBLES, TRAJES, CERÁMICA, PLATERÍA.",juridico,6
+ambitos_actividad_economica,"S94990503 ACTIVIDADES DE ASOCIACIONES QUE PROMUEVEN ACTIVIDADES CULTURALES O RECREATIVAS O REÚNEN A PERSONAS QUE COMPARTEN UNA AFICIÓN (DIFERENTE DE UN DEPORTE O JUEGO), COMO CLUBES DE POESÍA, LITERARIOS O DE LIBROS, CLUBES DE HISTORIA.",juridico,6
+ambitos_actividad_economica,"S94990104 ACTIVIDADES DE ORGANIZACIONES PARA LA PROTECCIÓN Y DEL ADELANTO DE GRUPOS ESPECIALES; POR EJEMPLO, GRUPOS ÉTNICOS Y MINORITARIOS.",juridico,6
+ambitos_actividad_economica,"ORGANIZACIÓN, PROMOCIÓN Y/O GESTIÓN DE EVENTOS COMO EXPOSICIONES COMERCIALES O EMPRESARIALES, CONVENCIONES, CONFERENCIAS Y REUNIONES, ESTÉN INCLUIDAS O NO LA GESTIÓN DE ESAS INSTALACIONES Y LA DOTACIÓN DE PERSONAL NECESARIO PARA SU FUNCIONAMIENTO.",juridico,6
+ambitos_actividad_economica,INVESTIGACIÓN Y DESARROLLO EN CIENCIAS SOCIALES Y HUMANIDADES.,juridico,5
+ambitos_actividad_economica,OTROS TIPOS DE ENSEÑANZA N.C.P.,juridico,5
+ambitos_actividad_economica,"ACTIVIDADES DE FORMACIÓN ARTÍSTICA, ESCUELAS DE TEATRO, ESCUELAS DE BELLAS ARTES Y ESCUELAS DE ARTES INTERPRETATIVAS (EXCEPTO LAS ACADÉMICAS).",juridico,5
+ambitos_actividad_economica,"EDUCACIÓN DE TERCER NIVEL, DESTINADO A LA FORMACIÓN BÁSICA EN UNA DISCIPLINA O A LA CAPACITACIÓN PARA EL EJERCICIO DE UNA PROFESIÓN. CORRESPONDEN A ESTE NIVEL EL GRADO DE LICENCIADO Y LOS TÍTULOS PROFESIONALES UNIVERSITARIOS O POLITÉCNICOS, QUE SON EQUIVALENTES, INCLUIDO LAS ACTIVIDADES DE ESCUELAS",juridico,5
+ambitos_actividad_economica,Otros / protegido,juridico,299
+juridico_estado_contribuyente,ACTIVO,valor,639
+juridico_estado_contribuyente,PASIVO,valor,5
+juridico_estado_contribuyente,Otros / protegido,valor,3
+juridico_serie_anio,2019,registros,15
+juridico_serie_anio,2020,registros,54
+juridico_serie_anio,2021,registros,81
+juridico_serie_anio,2022,registros,70
+juridico_serie_anio,2023,registros,105
+juridico_serie_anio,2024,registros,147
+juridico_serie_anio,2025,registros,162
+juridico_serie_anio,2026,registros,13
+distribucion_territorial,PICHINCHA,juridico,357
+distribucion_territorial,GUAYAS,juridico,138
+distribucion_territorial,AZUAY,juridico,37
+distribucion_territorial,MANABÍ,juridico,28
+distribucion_territorial,IMBABURA,juridico,24
+distribucion_territorial,LOJA,juridico,11
+distribucion_territorial,CHIMBORAZO,juridico,8
+distribucion_territorial,EL ORO,juridico,7
+distribucion_territorial,GALAPAGOS,juridico,6
+distribucion_territorial,TUNGURAHUA,juridico,6
+distribucion_territorial,Otros / protegido,juridico,25
+distribucion_territorial,PICHINCHA,naturales,8367
+distribucion_territorial,GUAYAS,naturales,3876
+distribucion_territorial,AZUAY,naturales,1831
+distribucion_territorial,MANABÍ,naturales,1527
+distribucion_territorial,TUNGURAHUA,naturales,1215
+distribucion_territorial,IMBABURA,naturales,1164
+distribucion_territorial,CHIMBORAZO,naturales,744
+distribucion_territorial,LOJA,naturales,721
+distribucion_territorial,COTOPAXI,naturales,689
+distribucion_territorial,SANTA ELENA,naturales,685
+distribucion_territorial,PASTAZA,naturales,626
+distribucion_territorial,ORELLANA,naturales,593
+distribucion_territorial,SANTO DOMINGO DE LOS TSÁCHILAS,naturales,577
+distribucion_territorial,NAPO,naturales,562
+distribucion_territorial,EL ORO,naturales,433
+distribucion_territorial,CAÑAR,naturales,394
+distribucion_territorial,SUCUMBÍOS,naturales,373
+distribucion_territorial,ESMERALDAS,naturales,365
+distribucion_territorial,LOS RÍOS,naturales,279
+distribucion_territorial,SIN DATO,naturales,237
+distribucion_territorial,CARCHI,naturales,215
+distribucion_territorial,MORONA SANTIAGO,naturales,198
+distribucion_territorial,BOLÍVAR,naturales,187
+distribucion_territorial,ZAMORA CHINCHIPE,naturales,154
+distribucion_territorial,GALAPAGOS,naturales,96
