@@ -1,0 +1,186 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>MINEDEC — Datos abiertos de Educación, Deporte y Cultura</title>
+<meta name="description" content="Portal de datos abiertos del Ministerio de Educación, Deporte y Cultura: estadísticas de Educación Media, Educación Superior, Deporte y Cultura.">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 32 32%22><rect width=%2232%22 height=%2232%22 rx=%227%22 fill=%22%2316234a%22/><text x=%2216%22 y=%2222%22 font-size=%2216%22 text-anchor=%22middle%22 fill=%22white%22 font-family=%22sans-serif%22>M</text></svg>">
+<link rel="stylesheet" href="assets/css/styles.css">
+</head>
+<body>
+<a class="skip-link" href="#main">Saltar al contenido</a>
+
+<header class="site-header">
+  <div class="container">
+    <a class="brand" href="index.html">
+      <span class="brand-logo">
+        <img src="assets/img/logo-minedec.png" alt="Ministerio de Educación, Deporte y Cultura — El Nuevo Ecuador">
+      </span>
+    </a>
+    <nav class="main-nav" aria-label="Principal">
+      <a class="nav-pill is-active" href="index.html">Inicio</a>
+      <a class="nav-pill" href="informacion-estadistica.html">Información Estadística</a>
+      <a class="nav-pill" href="informacion-general.html">Indicadores</a>
+      <a class="nav-pill" href="#">Geoportal</a>
+      <a class="nav-pill" href="index.html#sectores">Estudios</a>
+    </nav>
+    <div class="header-actions">
+      <button class="icon-btn" type="button" aria-label="Buscar" title="Buscar">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="m21 21-4.3-4.3"/></svg>
+      </button>
+      <button class="btn-login" type="button">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="8" r="4"/><path d="M4 21c1.5-4 5-6 8-6s6.5 2 8 6"/></svg>
+        Iniciar sesión
+      </button>
+      <button class="nav-toggle" type="button" aria-label="Abrir menú" aria-expanded="false">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 7h16M4 12h16M4 17h16"/></svg>
+      </button>
+    </div>
+  </div>
+</header>
+
+<main id="main">
+  <section class="hero">
+    <div class="container">
+      <div class="hero-copy">
+        <h1>Datos que<br>transforman<br>vidas</h1>
+        <p>Explora la información de Educación, Deporte y Cultura para construir un mejor Ecuador.</p>
+        <a class="btn-primary" href="informacion-estadistica.html">
+          Explorar datos
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M5 12h14M13 6l6 6-6 6"/></svg>
+        </a>
+      </div>
+      <div class="hero-hub" role="img" aria-label="Resumen de los cuatro sectores del ministerio: Educación Media, Educación Superior, Cultura y Deporte">
+        <div class="hub-center">
+          <svg class="mark" viewBox="0 0 40 40" aria-hidden="true">
+            <path d="M20 8 6 14l14 6 14-6-14-6Z" fill="#16234a"/>
+            <path d="M11 18v7c0 2.5 4 5 9 5s9-2.5 9-5v-7l-9 4-9-4Z" fill="#16234a" opacity=".7"/>
+          </svg>
+          <strong>MINEDEC</strong>
+          <span>Ministerio de Educación, Deporte y Cultura</span>
+        </div>
+
+        <a class="hub-node n-media" href="informacion-general.html#media-panorama">
+          <span class="value" id="stat-media">…</span>
+          <span class="label">ESTUDIANTES</span>
+          <span class="sub">Inicial · EGB · Bach.</span>
+        </a>
+        <a class="hub-node n-superior" href="informacion-general.html#superior-panorama">
+          <span class="value" id="stat-superior">…</span>
+          <span class="label">ESTUDIANTES</span>
+          <span class="sub">UEP · ITT</span>
+        </a>
+        <a class="hub-node n-deporte" href="informacion-general.html#deporte-panorama">
+          <span class="value" id="stat-deporte">…</span>
+          <span class="label">DEPORTISTAS</span>
+          <span class="sub">Alto rendimiento</span>
+        </a>
+        <a class="hub-node n-cultura" href="informacion-general.html#cultura-panorama">
+          <span class="value" id="stat-cultura">…</span>
+          <span class="label">GESTORES</span>
+          <span class="sub">Culturales</span>
+        </a>
+
+        <a class="hero-tag tag-media" href="informacion-general.html#media-panorama"><span class="swatch">🎓</span>Educación Media</a>
+        <a class="hero-tag tag-superior" href="informacion-general.html#superior-panorama"><span class="swatch">🏛️</span>Educación Superior</a>
+        <a class="hero-tag tag-cultura" href="informacion-general.html#cultura-panorama"><span class="swatch">🎭</span>Cultura</a>
+        <a class="hero-tag tag-deporte" href="informacion-general.html#deporte-panorama"><span class="swatch">🏅</span>Deporte</a>
+      </div>
+    </div>
+  </section>
+
+  <section class="value-props">
+    <div class="container">
+      <div class="value-prop">
+        <span class="ic">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 3v18h18M7 15l4-5 3 3 5-7"/></svg>
+        </span>
+        <div><h3>Información confiable</h3><p>Datos oficiales y actualizados para la toma de decisiones.</p></div>
+      </div>
+      <div class="value-prop">
+        <span class="ic">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="9" r="3"/><path d="M12 21s7-6.5 7-11.5S16.4 3 12 3 5 4.9 5 9.5 12 21 12 21Z"/></svg>
+        </span>
+        <div><h3>Cobertura nacional</h3><p>Información desagregada por territorio.</p></div>
+      </div>
+      <div class="value-prop">
+        <span class="ic">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="4" y="4" width="16" height="16" rx="2"/><path d="M8 9h8M8 13h5"/></svg>
+        </span>
+        <div><h3>Acceso abierto</h3><p>Datos disponibles para la ciudadanía, investigadores y gestores.</p></div>
+      </div>
+      <div class="value-prop">
+        <span class="ic">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M17 20v-1a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v1"/><circle cx="9" cy="7" r="4"/><path d="M23 20v-1a4 4 0 0 0-3-3.87M16 3.13a4 4 0 0 1 0 7.75"/></svg>
+        </span>
+        <div><h3>Transparencia</h3><p>Promovemos la rendición de cuentas y la participación ciudadana.</p></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="sectors" id="sectores">
+    <div class="container">
+      <div class="section-head">
+        <h2>Explora por sector</h2>
+        <p>Cada sector despliega tableros con visualizador, base de datos y tabulados construidos a partir de registros administrativos agregados — sin datos personales.</p>
+      </div>
+      <div class="sector-grid">
+        <a class="sector-card c-media" href="informacion-general.html#media-panorama">
+          <span class="ic"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2"><path d="M22 10 12 5 2 10l10 5 10-5Z"/><path d="M6 12v5c0 1.7 2.7 3 6 3s6-1.3 6-3v-5"/></svg></span>
+          <h3>Educación Media</h3>
+          <p>Matrícula, instituciones y docentes de Inicial, EGB y Bachillerato a nivel nacional, 2009–2024.</p>
+          <span class="go">Ver datos →</span>
+        </a>
+        <a class="sector-card c-superior" href="informacion-general.html#superior-panorama">
+          <span class="ic"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2"><path d="M3 21h18M5 21V9l7-6 7 6v12M9 21v-6h6v6"/></svg></span>
+          <h3>Educación Superior</h3>
+          <p>Universidades, escuelas politécnicas e institutos técnicos y tecnológicos.</p>
+          <span class="go">Ver datos →</span>
+        </a>
+        <a class="sector-card c-deporte" href="informacion-general.html#deporte-panorama">
+          <span class="ic"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2"><circle cx="12" cy="8" r="5"/><path d="M8.5 13 7 22l5-3 5 3-1.5-9"/></svg></span>
+          <h3>Deporte</h3>
+          <p>Deportistas de alto rendimiento, juegos nacionales y el programa Todos a la Cancha.</p>
+          <span class="go">Ver datos →</span>
+        </a>
+        <a class="sector-card c-cultura" href="informacion-general.html#cultura-panorama">
+          <span class="ic"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2"><path d="M12 2a5 5 0 0 0-5 5c0 3 2 4 2 7a5 5 0 0 0 10 0c0-3 2-4 2-7a5 5 0 0 0-5-5Z"/><path d="M9 21h6"/></svg></span>
+          <h3>Cultura</h3>
+          <p>Gestores culturales personas naturales y organizaciones culturales personas jurídicas.</p>
+          <span class="go">Ver datos →</span>
+        </a>
+      </div>
+    </div>
+  </section>
+</main>
+
+<footer class="site-footer">
+  <div class="container">
+    <div>
+      <h4>MINEDEC</h4>
+      <p style="max-width:32ch">Portal de datos abiertos del Ministerio de Educación, Deporte y Cultura del Ecuador.</p>
+    </div>
+    <div>
+      <h4>Datos</h4>
+      <ul>
+        <li><a href="informacion-estadistica.html">Información Estadística</a></li>
+        <li><a href="INVENTORY.md">Inventario de fuentes</a></li>
+        <li><a href="README.md">Acerca del portal</a></li>
+      </ul>
+    </div>
+    <div>
+      <h4>Privacidad</h4>
+      <p style="max-width:34ch">Todos los datos publicados son agregados y anonimizados. No se publican registros individuales ni datos personales.</p>
+    </div>
+  </div>
+  <div class="footer-bottom">© <span id="year"></span> MINEDEC · Datos abiertos</div>
+</footer>
+
+<script>document.getElementById('year').textContent = new Date().getFullYear();</script>
+<script src="assets/js/csv.js"></script>
+<script src="assets/js/charts.js"></script>
+<script src="assets/js/data.js"></script>
+<script src="assets/js/main.js"></script>
+</body>
+</html>
